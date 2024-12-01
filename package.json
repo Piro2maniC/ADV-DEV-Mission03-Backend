@@ -1,0 +1,23 @@
+{
+  "name": "adv-mission01-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@azure/cognitiveservices-customvision-prediction": "^5.1.2",
+    "@azure/cognitiveservices-customvision-training": "^5.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jest": "^29.7.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^3.11.4"
+  }
+}
