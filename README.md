@@ -106,7 +106,7 @@ Ensure you have the following installed on your system:
 
 ## Set Up Enviroment Variables
 
-1. Create a .env file in the root directory and include the following:
+1. Create a .env file in the root directory and include the following: GEMINI_API_KEY=AIzaSyCkl-KJdSZP8gElGsCvGQZy1F11DcxAZFg
 
 ## Running the Application
 
