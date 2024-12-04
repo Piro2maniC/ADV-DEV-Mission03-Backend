@@ -22,14 +22,14 @@
     It provides constructive feedback and actionable suggestions to help staff improve their interview performance.
 
 <br />
-<a href="https://github.com/Piro2maniC/ADV-DEV-Mission03-Frontend"><strong>Explore the docs »</strong></a>
+<a href="https://github.com/Piro2maniC/ADV-DEV-Mission03-Backend"><strong>Explore the docs »</strong></a>
 <br />
 <br />
-<a href="https://github.com/Piro2maniC/ADV-DEV-Mission03-Frontend">View Demo</a>
+<a href="https://github.com/Piro2maniC/ADV-DEV-Mission03-Backend">View Demo</a>
 ·
-<a href="https://github.com/Piro2maniC/ADV-DEV-Mission03-Frontend/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+<a href="https://github.com/Piro2maniC/ADV-DEV-Mission03-Backend/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
 ·
-<a href="https://github.com/Piro2maniC/ADV-DEV-Mission03-Frontend/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+<a href="https://github.com/Piro2maniC/ADV-DEV-Mission03-Backend/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
 
   </p>
 </div>
@@ -73,7 +73,7 @@
 
 ## Getting Started
 
-To run this Application you will need to clone both the Frontend Repository and the [Backend Repository][Backend-url].
+To run this Application you will need to clone both the [Frontend Repository][Frontend-url]. and the Backend Repository
 
 ### Prerequisites
 
@@ -106,7 +106,8 @@ Ensure you have the following installed on your system:
 
 ## Set Up Enviroment Variables
 
-1. Create a .env file in the root directory and include the following: GEMINI_API_KEY=AIzaSyCkl-KJdSZP8gElGsCvGQZy1F11DcxAZFg
+1. Create a .env file in the root directory and include the following:
+   GEMINI_API_KEY=AIzaSyCkl-KJdSZP8gElGsCvGQZy1F11DcxAZFg
 
 ## Running the Application
 
@@ -175,4 +176,4 @@ Ensure you have the following installed on your system:
 [product-screenshot]: images/project-screenshot1.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Frontend-url]: https://github.com/Piro2maniC/ADV-DEV-Mission03-Frontend
+[Frontend-url]: https://github.com/Piro2maniC/ADV-DEV-Mission03-Backend
