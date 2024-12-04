@@ -169,7 +169,7 @@ Ensure you have the following installed on your system:
 [forks-shield]: https://img.shields.io/github/forks/Piro2maniC/ADV-DEV-Mission03-Backend.svg?style=for-the-badge
 [forks-url]: https://github.com/Piro2maniC/ADV-DEV-Mission03-Backend/forks
 [stars-shield]: https://img.shields.io/github/stars/Piro2maniC/ADV-DEV-Mission03-Backend.svg?style=for-the-badge
-[stars-url]: https://github.com/Piro2maniC/ADV-DEV-Mission03-Backend/stargazers
+[stars-url]: https://github.com/Piro2maniC/ADV-DEV-Mission03-Backend.svg/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Piro2maniC/ADV-DEV-Mission03-Backend.svg?style=for-the-badge
 [issues-url]: https://github.com/Piro2maniC/ADV-DEV-Mission03-Backend/issues
 [product-screenshot]: images/project-screenshot1.png
