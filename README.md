@@ -164,11 +164,11 @@ Ensure you have the following installed on your system:
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Piro2maniC/ADV-DEV-Mission03-Frontend.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Piro2maniC/ADV-DEV-Mission03-Backend.svg?style=for-the-badge
 [contributors-url]: https://github.com/Piro2maniC/ADV-DEV-Mission03-Backend/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Piro2maniC/ADV-DEV-Mission03-Frontend.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Piro2maniC/ADV-DEV-Mission03-Backend.svg?style=for-the-badge
 [forks-url]: https://github.com/Piro2maniC/ADV-DEV-Mission03-Backend/forks
-[stars-shield]: https://img.shields.io/github/stars/Piro2maniC/ADV-DEV-Mission03-Frontend.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Piro2maniC/ADV-DEV-Mission03-Backend.svg?style=for-the-badge
 [stars-url]: https://github.com/Piro2maniC/ADV-DEV-Mission03-Backend/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Piro2maniC/ADV-DEV-Mission03-Backend.svg?style=for-the-badge
 [issues-url]: https://github.com/Piro2maniC/ADV-DEV-Mission03-Backend/issues
