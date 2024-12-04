@@ -73,7 +73,7 @@
 
 ## Getting Started
 
-To run this Application you will need to clone both the [Frontend Repository][Frontend-url]. and the Backend Repository
+To run this Application you will need to clone both the [Frontend Repository][Frontend-url] and the Backend Repository
 
 ### Prerequisites
 
