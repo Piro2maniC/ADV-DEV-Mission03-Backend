@@ -113,16 +113,17 @@ Ensure you have the following installed on your system:
 
 1. Start the Backend Development Server
    ```sh
-   npm start
+   npm run dev
    ```
-2. Hold ctrl + click on the link http://localhost:5173/
+2. Hold ctrl + click on the link: http://localhost:5173/
 
    ```sh
-   VITE v5.4.10  ready in 404 ms
-
-   ➜  Local:   http://localhost:5173/
-   ➜  Network: use --host to expose
-   ➜  press h + enter to show help
+   [nodemon] 3.1.7
+   [nodemon] to restart at any time, enter `rs`
+   [nodemon] watching path(s): *.*
+   [nodemon] watching extensions: js,mjs,cjs,json
+   [nodemon] starting `node index.js`
+   Server is listening on http://localhost:4000
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
