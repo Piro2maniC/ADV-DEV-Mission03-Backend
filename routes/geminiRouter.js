@@ -13,13 +13,14 @@ router.post('/start', async (req, res) => {
         res.json(result);
     } catch (error) {
         console.error('Error starting interview:', error);
-        res.status(500).json({ error: 'Failed to start interview' });
+        res.status(500).json({ error: error.message || 'Failed to start interview' });
     }
 });
 
 router.post('/generate', async (req, res) => {
     try {
-        const { prompt, jobTitle, questionCount } = req.body;
+        const { prompt, jobTitle, questionCount, interviewHistory } = req.body;
+        
         if (!prompt) {
             return res.status(400).json({ error: 'Prompt is required' });
         }
@@ -29,12 +30,15 @@ router.post('/generate', async (req, res) => {
         if (typeof questionCount !== 'number') {
             return res.status(400).json({ error: 'Question count is required' });
         }
+        if (!Array.isArray(interviewHistory)) {
+            return res.status(400).json({ error: 'Interview history is required' });
+        }
         
-        const result = await geminiAPI.generateResponse(prompt, jobTitle, questionCount);
+        const result = await geminiAPI.generateResponse(prompt, jobTitle, questionCount, interviewHistory);
         res.json(result);
     } catch (error) {
         console.error('Error in Gemini API:', error);
-        res.status(500).json({ error: 'Failed to generate response' });
+        res.status(500).json({ error: error.message || 'Failed to generate response' });
     }
 });
 
