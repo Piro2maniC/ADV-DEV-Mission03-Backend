@@ -115,7 +115,7 @@ Ensure you have the following installed on your system:
    ```sh
    npm run dev
    ```
-2. Hold ctrl + click on the link: http://localhost:5173/
+2. Hold ctrl + click on the link: http://localhost:4000
 
    ```sh
    [nodemon] 3.1.7
