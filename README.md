@@ -115,7 +115,7 @@ Ensure you have the following installed on your system:
    ```sh
    npm run dev
    ```
-2. Hold ctrl + click on the link: http://localhost:4000
+2. Backend Server should be running and look like this:
 
    ```sh
    [nodemon] 3.1.7
